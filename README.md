@@ -401,22 +401,28 @@ bancos de dados e construção de aplicações.
 <h2>GitHub</h2>
 
 <p align="center">
-
-<img
-  width="100%"
-  src="https://github-readme-stats.vercel.app/api?username=doctorelia&show_icons=true&hide_border=false&bg_color=0D0C0B&title_color=CC342E&text_color=E8DCC9&icon_color=B88A55&border_color=5A4735&locale=pt-br"
-  alt="Estatísticas do GitHub"
-/>
-
+  <img
+    width="100%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doctorelia&theme=github_dark"
+    alt="Resumo do perfil GitHub"
+  />
 </p>
 
 <p align="center">
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=doctorelia&theme=github_dark"
+    alt="Estatísticas do GitHub"
+  />
 
-<img
-  width="100%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=doctorelia&layout=compact&hide_border=false&bg_color=0D0C0B&title_color=CC342E&text_color=E8DCC9&border_color=5A4735&locale=pt-br"
-  alt="Linguagens mais utilizadas"
-/>
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=doctorelia&theme=github_dark"
+    alt="Linguagens dos repositórios"
+  />
+</p>
+
+</td>
 
 </p>
 
