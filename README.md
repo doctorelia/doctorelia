@@ -5,7 +5,7 @@
 
 <p align="center">
   <img
-    src="./assets/hero.png"
+    src="https://raw.githubusercontent.com/doctorelia/doctorelia/main/assets/hero.png"
     width="100%"
     alt="Elias Sales — Engenharia, Software, Automação e Dados"
   />
